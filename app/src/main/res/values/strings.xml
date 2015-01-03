@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cinema</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="missing_username">Please enter username</string>
+    <string name="missing_password">Please enter password</string>
+    <string name="login_failed">Wrong username and/or password</string>
+    <string name="missing_email">Please enter email</string>
+    <string name="wrong_password_confirmation">Passwords do not match</string>
+    <string name="title_activity_user_home">UserHomeActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="action_logout">Logout</string>
+    <string name="username_exists">Username is already taken</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cinemas">Cinemas</string>
+    <string name="movies">Movies</string>
+    <string name="title_activity_cinema_details">CinemaDetailsActivity</string>
+    <string name="address">Address:</string>
+    <string name="working_time">Working Time:</string>
+    <string name="program">Program</string>
+    <string name="title_activity_movie_details">MovieDetailsActivity</string>
+    <string name="movieCastLabel">Cast:</string>
+    <string name="book">Book</string>
+    <string name="cancel">Cancel</string>
+    <string name="cinema_program">%1$s Program</string>
+    <string name="book_now">Book Tockets Now</string>
+    <string name="program_title">On Screen In:</string>
+    <string name="movieTitleLabel">Title:</string>
+    <string name="availableTicketsLabel">Available Tickets: %1$d</string>
+    <string name="cinema">Cinema</string>
+    <string name="ticketsCount">Tickets</string>
+    <string name="new_reservation">Thank you, %1$s!\nYou have reserved %2$d tickets for %3$s movie at %4$s cinema!</string>
+
+</resources>
