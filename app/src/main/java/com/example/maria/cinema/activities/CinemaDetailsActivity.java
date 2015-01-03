@@ -39,7 +39,9 @@ public class CinemaDetailsActivity extends BaseActivity {
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
+
         Intent intent;
+
         switch (item.getItemId()) {
             // Respond to the action bar's Up/Home button
             case android.R.id.home:
